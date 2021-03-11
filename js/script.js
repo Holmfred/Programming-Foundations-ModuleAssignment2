@@ -43,10 +43,6 @@ function logWord(one) {
 
 //Question 3
 
-//When the button in the HTML is clicked, change the 
-//colour of the h2 element to "blue" 
-//and change it to read "Updated subheading".
-
 var heading = document.querySelector("h2")
 var button = document.querySelector("button")
 
